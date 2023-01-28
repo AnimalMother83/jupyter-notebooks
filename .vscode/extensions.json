@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-toolsai.jupyter",
+        "donjayamanne.python-environment-manager",
+        "kevinrose.vsc-python-indent",
+        "editorconfig.editorconfig",
+        "ms-python.python",
+        "donjayamanne.python-extension-pack"
+    ]
+}
