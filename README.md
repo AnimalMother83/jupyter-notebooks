@@ -1,9 +1,14 @@
 # Jupyter notebooks
 
+Repository with Jupyter notebook config and examples.
+
 ## 1. Get started
 
 ### 1.1 Install anaconda
-  
+
+There are multiple ways to setup Jupyter notebook.
+In this example [Anaconda Distribution](https://www.anaconda.com/) is used.
+
 #### 1.1.1 MacOS
 
 - Install anaconda
